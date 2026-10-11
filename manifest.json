@@ -1,0 +1,9 @@
+{
+  "name": "ManutençãoQueGeraRoi • Check",
+  "short_name": "MQR Check",
+  "start_url": "/check/",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#111827",
+  "lang": "pt-BR"
+}
